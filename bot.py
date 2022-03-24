@@ -39,7 +39,7 @@ def main():
     tl_admin_user = config.TG_ADMIN_USER
 
     # set in debug
-    api_id = '19919438'
+    api_id = 19919438
     api_hash = 'c6ef54eb0cdd29441ae33921531cb4e8'
     bot_token = '5151801979:AAFXm7OpQ-d4zRP9kFWqVYyU3oBZz_0WaOs'
     tl_admin_user = 'Uk98090000'
