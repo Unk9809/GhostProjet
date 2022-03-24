@@ -4,19 +4,19 @@
   "env": {
     "tg_api_id": {
       "description": "El token del bot",
-      "value": "11029886"
+      "value": "19919438"
     },
     "tg_api_hash": {
       "description": "El token del bot",
-      "value": "4e74899bfd41879c6a4b48cf6a07f456"
+      "value": "c6ef54eb0cdd29441ae33921531cb4e8"
     },
     "tg_admin_user": {
       "description": "El Usuario DE Telegram Q Va A ADministrar El Bot",
-      "value": "Keima_Senpai"
+      "value": "Uk98090000"
     },
     "bot_token": {
       "description": "El token del bot",
-      "value": "5249184020:AAHqesEn6ZtpB9eanI0RvB00a-2kQ5oAWLk"
+      "value": "5151801979:AAFXm7OpQ-d4zRP9kFWqVYyU3oBZz_0WaOs"
     }
   },
   "buildpacks": [
